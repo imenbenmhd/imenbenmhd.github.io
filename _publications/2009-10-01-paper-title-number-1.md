@@ -2,7 +2,7 @@
 title: "Feature Representations for Automatic Meerkat Vocalization Classification"
 collection: publications
 category: Conference Papers
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publications/2009-10-01-paper-title-number-1
 excerpt: 'This paper investigates feature representations for automatic meerkat vocalization analysis and classification'
 date: 2024-08-27
 venue: 'Accepted at Interspeech 2024 satellite event (VIHAR 2024)'
